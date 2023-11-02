@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "tem": "Mais um teste",
+      "tem": 12,
       "ph": 12,
       "qtdracao": 5,
       "periodo": "Tarde",
@@ -9,7 +9,7 @@
       "id": 747
     },
     {
-      "tem": "37 Graus",
+      "tem": 37,
       "ph": 12,
       "qtdracao": 1,
       "periodo": "Tarde",
